@@ -1,0 +1,6 @@
+com\scout\backend\Repositories\UserRepository.class
+com\scout\backend\Models\Postings.class
+com\scout\backend\Models\User.class
+com\scout\backend\Repositories\PostingRepository.class
+com\scout\backend\Controller\MainController.class
+com\scout\backend\ServersideApplication.class
